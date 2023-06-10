@@ -1,6 +1,6 @@
 # Advances in Visual Localization, Local Features, Matching and Rerieval
 
-This repository shows recent papers about **visual localization**, **local featuers** and **matching method**. Papers of using **NeRFs**, **large-languge-model (LLM)** and **vision-language-model (VLM)** for visual localization will also be included. 
+This repository shows recent papers about **visual localization**, **local featuers** and **matching method**. Papers of using **NeRFs**, **large-languge-model (LLM)** and **vision-language-model (VLM)** for visual localization will also be included.   
 
 Feel free to add papers which are of your interest by pulling requests. 
 
