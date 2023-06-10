@@ -15,9 +15,9 @@
 ## 2023
 
 ### Visual Localization
-- [2023 CVPR] Visual Localization using Imperfect 3D Models from the Internet [**Keywords** - localization from CAD models] 
-- [2023 CVPR] Long-term Visual Localization with Mobile Sensors [**Keywords** - GPS for retrieval; gravity for geometric verification]
-- [2023 CVPR] OrienterNet: Visual Localization in 2D Public Maps with Neural Matching [**Keywords** - localization with OpenStreetMap]
+- [2023 CVPR] Visual Localization using Imperfect 3D Models from the Internet [**Keywords - localization from CAD models**] 
+- [2023 CVPR] Long-term Visual Localization with Mobile Sensors [**Keywords - GPS for retrieval; gravity for geometric verification**]
+- [2023 CVPR] OrienterNet: Visual Localization in 2D Public Maps with Neural Matching [**Keywords - localization with OpenStreetMap**]
 - [2023 CVPR] NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization [**Keywords** - scene coordinate regression from hidden states]
 
 ### Local features
