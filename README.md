@@ -15,17 +15,17 @@
 ## 2023
 
 ### Visual Localization
-- [2023 CVPR] Visual Localization using Imperfect 3D Models from the Internet [**Keywords - localization from CAD models**] 
-- [2023 CVPR] Long-term Visual Localization with Mobile Sensors [**Keywords - GPS for retrieval; gravity for geometric verification**]
-- [2023 CVPR] OrienterNet: Visual Localization in 2D Public Maps with Neural Matching [**Keywords - localization with OpenStreetMap**]
-- [2023 CVPR] NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization [**Keywords** - scene coordinate regression from hidden states]
+- [2023 CVPR] Visual Localization using Imperfect 3D Models from the Internet [[paper](https://arxiv.org/abs/2304.05947)] [**Keywords - localization from CAD models**] 
+- [2023 CVPR] Long-term Visual Localization with Mobile Sensors [[paper](https://arxiv.org/abs/2304.07691)] [**Keywords - GPS for retrieval; gravity for geometric verification**]
+- [2023 CVPR] OrienterNet: Visual Localization in 2D Public Maps with Neural Matching [[paper](https://arxiv.org/abs/2304.02009)] [**Keywords - localization with OpenStreetMap**]
+- [2023 CVPR] NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization [[paper](https://arxiv.org/abs/2211.11177)] [**Keywords** - scene coordinate regression from hidden states]
 
 ### Local features
-- [CVPR 2023] SFD2: Semantic-guided Feature Detection and Description [**Keywords** - implicit semantics embedding; features selection for long-term localization]
-- [CVPR 2023] FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [**Keywords** - augmentation descriptors with transformers]
+- [CVPR 2023] SFD2: Semantic-guided Feature Detection and Description [[paper](https://arxiv.org/abs/2304.14845)] [**Keywords - implicit semantics embedding into features; automatic features selection for localization**]
+- [CVPR 2023] FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [[paper](https://arxiv.org/abs/2211.15069)] [**Keywords** - augmentation descriptors with transformers**]
 
 ### Matching
-- [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [**Keywords** - iterative matching and pose estimatin; transformers]
+- [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[paper](https://arxiv.org/abs/2304.14837)] [**Keywords - iterative matching and pose estimatin; graph-matching**]
 
 
 
