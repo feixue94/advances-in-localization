@@ -1,6 +1,18 @@
 # Advances in Visual Localization, Local Features, Matching and Rerieval
 
+This repository shows recent papers about visual localization, local featuers and matching method. Papers of using Nerfs and large-languge-model (LLM) for visual localization will also be included. Feel free to add papers which are of your interest by pulling request. 
 
+## Contents
+
+- [Visual localization]
+    - [Visual localization with different maps (SfM, CADs, etc)]
+    - [Absolute pose regression]
+    - [Scene coordinate regression] 
+- [Local features]
+- [Matching]
+    - [Sparse matching between keypoints]
+    - [Dense matching between pixels]
+- [Retrieval] 
 
 ## 2023
 
