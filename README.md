@@ -31,6 +31,7 @@ Feel free to add papers which are of your interest by pulling requests.
 
 ### Matching
 - [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[paper](https://arxiv.org/abs/2304.14837)] [[code](https://github.com/feixue94/imp-release)] [**Keywords - iterative matching and pose estimatin; training graph matcher from scratch**]
+- [CVPR 2023] PATS: Patch Area Transportation with Subdivision for Local Feature Matching [[paper](https://arxiv.org/pdf/2303.07700.pdf)] [[code](https://github.com/zju3dv/pats)] [**Keywords - dense matching; patch division**]
 
 
 ## 2021
