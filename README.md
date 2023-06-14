@@ -30,7 +30,8 @@ Feel free to add papers which are of your interest by pulling requests.
 - [CVPR 2023] FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [[paper](https://arxiv.org/abs/2211.15069)] [[code](https://github.com/SJTU-ViSYS/FeatureBooster)] [**Keywords** - augmentation descriptors with transformers**]
 
 ### Matching
-- [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[paper](https://arxiv.org/abs/2304.14837)] [[code](https://github.com/feixue94/imp-release)] [**Keywords - iterative matching and pose estimatin; training graph matcher from scratch**]
+- [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[paper](https://arxiv.org/abs/2304.14837)] [[code](https://github.com/feixue94/imp-release)] [**Keywords - iterative matching and pose estimatin; training graph matcher from scratch; sparse matching**]
+- [CVPR 2023] Adaptive Assignment for Geometry Aware Local Feature Matching [[paper](https://arxiv.org/abs/2207.08427)] [[code](https://github.com/AbyssGaze/AdaMatcher)] [**Keywords - one-many matching; sub-pixel refinement; dense matching**]
 
 
 ## 2021
