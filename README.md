@@ -28,6 +28,7 @@ Feel free to add papers which are of your interest by pulling requests.
 ### Local features
 - [CVPR 2023] SFD2: Semantic-guided Feature Detection and Description [[paper](https://arxiv.org/abs/2304.14845)] [[code](https://github.com/feixue94/sfd2)] [**Keywords - implicit semantics embedding into features; automatic feature selection for localization**]
 - [CVPR 2023] FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [[paper](https://arxiv.org/abs/2211.15069)] [[code](https://github.com/SJTU-ViSYS/FeatureBooster)] [**Keywords** - augmentation descriptors with transformers**]
+- [CVPR 2023] D2Former: Jointly Learning Hierarchical Detectors and Contextual Descriptors via Agent-based Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_D2Former_Jointly_Learning_Hierarchical_Detectors_and_Contextual_Descriptors_via_Agent-Based_CVPR_2023_paper.pdf)] [**Keywords - perceiver-like detector & descriptor**]
 
 ### Matching
 - [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[paper](https://arxiv.org/abs/2304.14837)] [[code](https://github.com/feixue94/imp-release)] [**Keywords - iterative matching and pose estimatin; training graph matcher from scratch; sparse matching**]
