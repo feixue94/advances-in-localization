@@ -33,6 +33,7 @@ Feel free to add papers which are of your interest by pulling requests.
 - [CVPR 2023] IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[paper](https://arxiv.org/abs/2304.14837)] [[code](https://github.com/feixue94/imp-release)] [**Keywords - iterative matching and pose estimatin; training graph matcher from scratch; sparse matching**]
 - [CVPR 2023] PATS: Patch Area Transportation with Subdivision for Local Feature Matching [[paper](https://arxiv.org/pdf/2303.07700.pdf)] [[code](https://github.com/zju3dv/pats)] [**Keywords - patch division; dense matching**]
 - [CVPR 2023] Adaptive Assignment for Geometry Aware Local Feature Matching [[paper](https://arxiv.org/abs/2207.08427)] [[code](https://github.com/AbyssGaze/AdaMatcher)] [**Keywords - one-many matching; sub-pixel refinement; dense matching**]
+- [CVPR 2023] Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[paper](https://arxiv.org/pdf/2303.16624.pdf)] [**Keywords - spot-guided aggregation; dense matching**]
 
 
 ## 2021
