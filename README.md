@@ -36,6 +36,7 @@ Feel free to add papers which are of your interest by pulling requests.
 - [CVPR 2023] Adaptive Assignment for Geometry Aware Local Feature Matching [[paper](https://arxiv.org/abs/2207.08427)] [[code](https://github.com/AbyssGaze/AdaMatcher)] [**Keywords - one-many matching; sub-pixel refinement; dense matching**]
 - [CVPR 2023] Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[paper](https://arxiv.org/pdf/2303.16624.pdf)] [**Keywords - spot-guided aggregation; dense matching**]
 - [CVPR 2023] PMatch: Paired Masked Image Modeling for Dense Geometric Matching [[paper](https://arxiv.org/pdf/2303.17342.pdf)] [[code](https://github.com/ShngJZ/PMatch)] [**Keywords - masked image modeling; homography loss; dense matching**]
+- [CVPR 2023] Progressive Neighbor Consistency Mining for Correspondence Pruning [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf)] [[code](https://github.com/xinliu29/NCMNet)] [**Keywords - neghbor consistency; correspondence pruning**]
 
 
 ## 2021
