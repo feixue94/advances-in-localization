@@ -40,6 +40,9 @@ Feel free to add papers which are of your interest by pulling requests.
 - [CVPR 2023] PMatch: Paired Masked Image Modeling for Dense Geometric Matching [[paper](https://arxiv.org/pdf/2303.17342.pdf)] [[code](https://github.com/ShngJZ/PMatch)] [**Keywords - masked image modeling; homography loss; dense matching**]
 - [CVPR 2023] Progressive Neighbor Consistency Mining for Correspondence Pruning [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf)] [[code](https://github.com/xinliu29/NCMNet)] [**Keywords - neghbor consistency; correspondence pruning**]
 
+### SLAM
+- [CVPR 2023] Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM [[paper](https://arxiv.org/abs/2304.14377)] [[code](https://hengyiwang.
+github.io/projects/CoSLAM)] [**Keywords - coordinate + sparse grid for point encodding; joint BA of map and poses**]
 
 ## 2021
 
