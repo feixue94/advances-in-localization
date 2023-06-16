@@ -24,6 +24,7 @@ Feel free to add papers which are of your interest by pulling requests.
 - [2023 CVPR] OrienterNet: Visual Localization in 2D Public Maps with Neural Matching [[paper](https://arxiv.org/abs/2304.02009)] [**Keywords - localization with OpenStreetMap**]
 - [2023 CVPR] NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization [[paper](https://arxiv.org/abs/2211.11177)] [[code](https://github.com/Tangshitao/NeuMap)] [**Keywords** - scene coordinate regression from hidden states]
 - [2023 ICRA] NeRF-Loc: Visual Localization with Conditional Neural Radiance Field [paper](https://arxiv.org/abs/2304.07979)] [[code](https://github.com/TencentYoutuResearch/NeRF-Loc)] [**Keywords - rendering 3D descriptors from NeRFs; NeRFs**] 
+[CVPR 2023] Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses [[paper](https://arxiv.org/abs/2305.14059)] [[code](https://github.com/nianticlabs/ace)] [**Keywords - Accelerated Coordinate Encoding; curriculum loss**]
 
 ### Local features
 - [CVPR 2023] SFD2: Semantic-guided Feature Detection and Description [[paper](https://arxiv.org/abs/2304.14845)] [[code](https://github.com/feixue94/sfd2)] [**Keywords - implicit semantics embedding into features; automatic feature selection for localization**]
